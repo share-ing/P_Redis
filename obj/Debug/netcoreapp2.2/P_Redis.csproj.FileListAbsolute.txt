@@ -1,0 +1,15 @@
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\P_Redis.deps.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\P_Redis.runtimeconfig.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\P_Redis.runtimeconfig.dev.json
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\P_Redis.dll
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.RazorAssemblyInfo.cache
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.RazorAssemblyInfo.cs
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.AssemblyInfoInputs.cache
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.AssemblyInfo.cs
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.RazorTargetAssemblyInfo.cache
+D:\Msf\P_Redis\P_Redis\bin\Debug\netcoreapp2.2\P_Redis.pdb
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.dll
+D:\Msf\P_Redis\P_Redis\obj\Debug\netcoreapp2.2\P_Redis.pdb
