@@ -13,7 +13,7 @@ namespace RedisDemo.Controllers
     public class ValuesController : ControllerBase
     {
         /// <summary>
-        /// https://localhost:44324/api/values/get?id=1
+        /// https://localhost:60341/api/values/get?id=1
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -30,7 +30,7 @@ namespace RedisDemo.Controllers
         }
 
         /// <summary>
-        /// https://localhost:44324/api/values/set?id=1
+        /// https://localhost:60341/api/values/set?id=1
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
